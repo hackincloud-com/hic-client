@@ -1,7 +1,5 @@
 # Very Simple Http Client For Requests
-## ( NON-KYC AND LOW-FEE Crypto Gateaway )
-
-Register first in oxapayments and create ur apikey in merchant
+Integrated with Heimdall and FastHTTP
 
 ## Installation
 
